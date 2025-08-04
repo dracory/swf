@@ -1,5 +1,7 @@
 # Simple Workflow Package (SWF)
 
+![tests](https://github.com/dracory/swf/workflows/tests/badge.svg)
+
 This package provides a simple, linear workflow management system in Go. It is designed for human-driven processes where steps require manual intervention, approval, or completion by users.
 
 ![Workflow Example](media/dot.svg)
