@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/dracory/base/arr"
+	"github.com/dracory/arr"
 	"github.com/samber/lo"
 )
 

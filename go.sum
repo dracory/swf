@@ -1,3 +1,5 @@
+github.com/dracory/arr v0.1.0 h1:qMY72i7e74nHVYiLv4CfGen1i3FVpzsnTGYFUIfMEyc=
+github.com/dracory/arr v0.1.0/go.mod h1:CWZGRcEKs9+wWxRXF8aCQzwOxGk107fYiUAByTqeMMc=
 github.com/dracory/base v0.25.0 h1:qug9g1rMwVBC4MWyAtT0VYv7LU4hYqLOUEKqQv9X3+U=
 github.com/dracory/base v0.25.0/go.mod h1:0jMi6A9DLZwKK9q+7lw4CMS4mBmYJ8U5XKeeFt1SrZc=
 github.com/samber/lo v1.51.0 h1:kysRYLbHy/MB7kQZf5DSN50JHmMsNEdeY24VzJFu7wI=

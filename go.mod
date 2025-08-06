@@ -3,7 +3,7 @@ module github.com/dracory/swf
 go 1.24.5
 
 require (
-	github.com/dracory/base v0.25.0
+	github.com/dracory/arr v0.1.0
 	github.com/samber/lo v1.51.0
 )
 
